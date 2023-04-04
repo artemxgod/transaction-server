@@ -1,0 +1,5 @@
+bind_addr = ":8081"
+
+database_url = "user=postgres dbname=tnserver sslmode=disable"
+session_key = "Q4lKlz755y4ctRUNps1lhj6TLpqW4BAxCKVAFdBACTOAqDZfW6"
+kafka_addr = "localhost:9092"
